@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080574811821",
+    "project_id": "tanaka-6eb29",
+    "storage_bucket": "tanaka-6eb29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080574811821:android:02762151deea9f94527024",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmPW7PkhAfFO0akFgJjP-aD5Tmj6Fqih0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
